@@ -58,31 +58,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Имя</value>
-  </data>
   <data name="DisplayName" xml:space="preserve">
-    <value>Обращение</value>
+    <value>Внешнее обращение</value>
   </data>
   <data name="AccusativeDisplayName" xml:space="preserve">
-    <value>Обращение</value>
+    <value>Внешнее обращение</value>
   </data>
   <data name="CollectionDisplayName" xml:space="preserve">
-    <value>Обращения</value>
+    <value>Внешние обращения</value>
   </data>
-  <data name="Property_Number" xml:space="preserve">
-    <value>Номер обращения</value>
+  <data name="ControlGroup_b013dd2c029047c3b7463057f62dfba9" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Description" xml:space="preserve">
-    <value>Описание</value>
+  <data name="Resource_511565a7aa9b4116a6049bf918621ae1" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_CreatedDate" xml:space="preserve">
-    <value>Дата создания</value>
+  <data name="Control_511565a7aa9b4116a6049bf918621ae1_EmptyText" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Ответственный</value>
+  <data name="Resource_4834c11c3e2247e4820078d7c775f63f" xml:space="preserve">
+    <value />
   </data>
-  <data name="Property_Index" xml:space="preserve">
-    <value>Индекс</value>
+  <data name="Resource_c6657cc157044ed1af002c16aeedc412" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_c6657cc157044ed1af002c16aeedc412_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_b199f67c961040ebaa9183a9d380f597" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_b199f67c961040ebaa9183a9d380f597_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_35e51e1c0146421db2254be07bbb6a79" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_8ad41c9b1eab40508a056598edad053c" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_8ad41c9b1eab40508a056598edad053c_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Автор</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Результат</value>
   </data>
 </root>
